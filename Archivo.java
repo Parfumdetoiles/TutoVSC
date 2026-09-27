@@ -5,7 +5,7 @@ public static void main(String[] args) {
     String operacion = "";
     System.out.println("Hola");
     System.out.println("Calculadora basica");
-System.out.println("Ingresa el primer numero");
+    System.out.println("Ingresa el primer numero");
     dato = sc.nextDouble();
     System.out.println("Ingresa la operacion que deseas realizar (+, -, *, /)");
     operacion = sc.next();
